@@ -1,2 +1,2 @@
 # Unity-Zig-Zag-Game-Clone
-Zig Zag game Clone / endless runner game with assets included from the asset store.
+Zig Zag game clone / endless runner game developed with Unity and includes assests from the asset store. 
